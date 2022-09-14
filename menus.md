@@ -1,4 +1,4 @@
-## 오늘 저녁은!?
+## Long Long ago Candidates
 
 저녁 메뉴 선정
 
@@ -8,7 +8,7 @@
 
 ## New Candidates
 
-4. Kimchi soup
-5. soy sauce soup
-6. Bibimbob
+4. Steak
+5. pizza
+6. SanChea Bibimbob
 
