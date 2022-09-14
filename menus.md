@@ -1,4 +1,4 @@
-## Before Candidates
+## Long Long ago Candidates
 
 저녁 메뉴 선정
 
@@ -8,7 +8,6 @@
 
 ## New Candidates
 
-4. Kimchi zzim
-5. Chung gook jang
-6. Bibimbob
-
+4. Steak
+5. pizza
+6. SanChea Bibimbob
