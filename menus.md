@@ -1,4 +1,4 @@
-## 오늘 저녁은!?
+## Before Candidates
 
 저녁 메뉴 선정
 
@@ -8,7 +8,7 @@
 
 ## New Candidates
 
-4. Kimchi soup
-5. soy sauce soup
+4. Kimchi zzim
+5. Chung gook jang
 6. Bibimbob
 
