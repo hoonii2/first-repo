@@ -6,3 +6,9 @@
 2. 칼국수
 3. 짜장면
 
+## New Candidates
+
+4. Kimchi soup
+5. soy sauce soup
+6. Bibimbob
+
